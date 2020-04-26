@@ -1,9 +1,4 @@
 /*
-Name: Mahmut Hilmi Arıkmert
-id: 150117024
- */
-
-/*
 Test Case
  */
 public class Test {
